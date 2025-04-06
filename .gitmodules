@@ -1,3 +1,0 @@
-[submodule "path_to_submodule"]
-	path = https://github.com/turotorta/turotorta.github.io.git
-	url = git://https://github.com/turotorta/turotorta.github.io.git
