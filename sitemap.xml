@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-        <loc>http://localhost:1313/</loc>
+        <loc>https://turotorta.github.io/</loc>
         <lastmod>2024-05-06T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/posts/demo-diagram/</loc>
+        <loc>https://turotorta.github.io/posts/demo-diagram/</loc>
         <lastmod>2024-05-06T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/tags/emoji/</loc>
+        <loc>https://turotorta.github.io/tags/emoji/</loc>
         <lastmod>2024-05-06T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/tags/index/</loc>
+        <loc>https://turotorta.github.io/tags/index/</loc>
         <lastmod>2024-05-06T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/posts/</loc>
+        <loc>https://turotorta.github.io/posts/</loc>
         <lastmod>2024-05-06T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/tags/</loc>
+        <loc>https://turotorta.github.io/tags/</loc>
         <lastmod>2024-05-06T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/about/</loc>
+        <loc>https://turotorta.github.io/about/</loc>
         <lastmod>2024-04-09T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/posts/advancedstyle/</loc>
+        <loc>https://turotorta.github.io/posts/advancedstyle/</loc>
         <lastmod>2024-04-09T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/tags/privacy/</loc>
+        <loc>https://turotorta.github.io/tags/privacy/</loc>
         <lastmod>2019-03-10T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/posts/rich-content/</loc>
+        <loc>https://turotorta.github.io/posts/rich-content/</loc>
         <lastmod>2019-03-10T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/tags/shortcodes/</loc>
+        <loc>https://turotorta.github.io/tags/shortcodes/</loc>
         <lastmod>2019-03-10T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>http://localhost:1313/categories/</loc>
+        <loc>https://turotorta.github.io/categories/</loc>
       </url>
 </urlset>
