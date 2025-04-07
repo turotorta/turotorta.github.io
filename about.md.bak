@@ -1,0 +1,9 @@
++++
+<title = "About">
+description = "About Me"
+
+aliases = ["about-us", "about-hugo"]
+author = ["Hugo Authors", "Alessia"]
++++
+
+![Alt text](/images/about.JPEG)

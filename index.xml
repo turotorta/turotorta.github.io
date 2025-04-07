@@ -220,75 +220,6 @@ Pumped heat,&#34;Heating and cooling, &#34;&#34;commercial&#34;&#34;&#34;,70.672
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/Junyi-99/hugo-theme-anubis2&#34;&gt;Anubis2&lt;/a&gt; is another simple minimalist theme for Hugo blog engine.&lt;/p&gt;
-&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Advanced Style</title>
-      <link>/posts/advancedstyle/</link>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/advancedstyle/</guid>
-      <description>&lt;p&gt;There are examples of how to use custom &lt;code&gt;global-wise style&lt;/code&gt; or &lt;code&gt;page-wise style&lt;/code&gt;.&lt;/p&gt;
-&lt;div class=&#34;anubis-custom-style&#34;&gt;
-The custom &lt;code&gt;.css&lt;/code&gt; &lt;code&gt;.scss&lt;/code&gt; &lt;code&gt;.sass&lt;/code&gt; file should be placed in &lt;code&gt;assets/&lt;/code&gt; folder. (instead of &lt;code&gt;static/&lt;/code&gt;)
-&lt;/div&gt;
-&lt;junyi&gt;
-This page is affected by &lt;code&gt;assets/css/custom1.scss&lt;/code&gt; and &lt;code&gt;assets/css/custom2.css&lt;/code&gt; and &lt;code&gt;advanced-style/style.css&lt;/code&gt;
-&lt;/junyi&gt;
-&lt;p&gt;&lt;junyi&gt;&lt;code&gt;advanced-style/style.css&lt;/code&gt; affects only the current page.&lt;/junyi&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;style&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  @&lt;span style=&#34;color:#66d9ef&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;style.css&amp;#39;&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;style&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;style&gt;
-  @import &#39;style.css&#39;;
-&lt;/style&gt;
-&lt;p&gt;&lt;junyi&gt;&lt;code&gt;assets/css/custom1.scss&lt;/code&gt; and &lt;code&gt;assets/css/custom2.scss&lt;/code&gt; will have global effect.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-scss&#34; data-lang=&#34;scss&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// assets/css/custom2.css
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;.anubis-custom-style&lt;/span&gt; {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;background-color&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;pink&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;color&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;black&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;padding&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;border-radius&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;.3&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;border&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt; solid &lt;span style=&#34;color:#66d9ef&#34;&gt;black&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-scss&#34; data-lang=&#34;scss&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// assets/css/foundation/_vars.scss
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;$font-stack&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; Helvetica&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt; sans-serif;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$primary-color&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;rgb&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;255&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;255&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;168&lt;/span&gt;);
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$background-color&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;rgb&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;85&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;85&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;85&lt;/span&gt;);
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-scss&#34; data-lang=&#34;scss&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// assets/css/custom1.scss
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;@import&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;foundation/vars&amp;#39;&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;junyi&lt;/span&gt; {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;display&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; block;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;font&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;100&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;%&lt;/span&gt; $font-stack;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;color&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; $primary-color;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;background-color&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; $background-color;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;margin-top&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
-    <item>
       <title>Rich Content</title>
       <link>/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
@@ -364,6 +295,16 @@ This page is affected by &lt;code&gt;assets/css/custom1.scss&lt;/code&gt; and &l
             &lt;/div&gt;
           &lt;/a&gt;
         &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://turotorta.github.io/images/about.JPEG&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

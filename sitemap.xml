@@ -20,12 +20,6 @@
         <loc>https://turotorta.github.io/tags/</loc>
         <lastmod>2024-05-06T00:00:00+00:00</lastmod>
       </url><url>
-        <loc>https://turotorta.github.io/about/</loc>
-        <lastmod>2024-04-09T00:00:00+00:00</lastmod>
-      </url><url>
-        <loc>https://turotorta.github.io/posts/advancedstyle/</loc>
-        <lastmod>2024-04-09T00:00:00+00:00</lastmod>
-      </url><url>
         <loc>https://turotorta.github.io/tags/privacy/</loc>
         <lastmod>2019-03-10T00:00:00+00:00</lastmod>
       </url><url>
@@ -34,6 +28,10 @@
       </url><url>
         <loc>https://turotorta.github.io/tags/shortcodes/</loc>
         <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+      </url><url>
+        <loc>https://turotorta.github.io/about/</loc>
+      </url><url>
+        <loc>https://turotorta.github.io/authors/</loc>
       </url><url>
         <loc>https://turotorta.github.io/categories/</loc>
       </url>
