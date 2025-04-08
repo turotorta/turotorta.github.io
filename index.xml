@@ -26,21 +26,27 @@
       <guid>/posts/introduction/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;I design strategies that think for themselves&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m Alessia, a strategist, project leader, and multidisciplinary thinker.&lt;/p&gt;
-&lt;p&gt;My background blends math, psychology, and business, and I’ve worked across borders in IT consulting and digital transformation.&lt;/p&gt;
-&lt;p&gt;I lead with clarity, think in systems, and deliver work that moves things forward.&lt;/p&gt;
+&lt;p&gt;My background blends math, psychology, and business, and I’ve worked across borders in IT consulting and project management.&lt;/p&gt;
+&lt;p&gt;I thrive in ambiguity, lead with clarity, think out of the box, and deliver work that moves things forward.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>💪 What I Do / Offer</title>
+      <title>💡 What I Do / Offer</title>
       <link>/posts/whatido/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/whatido/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Strategy consulting&lt;/strong&gt;: Turning ideas into smart, actionable plans&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Project leadership&lt;/strong&gt;: Leading complex digital initiatives to completion&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Business operations&lt;/strong&gt;: Improving how teams work, make decisions, and deliver results&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Advisory partnerships&lt;/strong&gt;: Working alongside founders or execs as a strategic thought partner&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;📊 Bridge Strategy and Execution&lt;/strong&gt;
+Translate high-level business goals into structured, actionable plans, especially in complex, tech-driven environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🤝 Navigate Projects Across Functions&lt;/strong&gt;
+Coordinate across teams, manage timelines, and ensure alignment between business needs and technical delivery.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🧠 Think Structurally and Systemically&lt;/strong&gt;
+Leverage my background in math, psychology, and business to analyze challenges from multiple perspectives.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🔍 Lead with Clarity in Ambiguity&lt;/strong&gt;
+Thrive in fast-changing contexts by bringing calm, clarity, and logical structure to decision-making.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🤖 Ready to Dive Deeper into AI&lt;/strong&gt;
+With a solid grounding in AI ethics, systems, and deep learning, I’m positioned to help organizations harness AI responsibly and strategically.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,15 +56,29 @@
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/portfolio/</guid>
-      <description>&lt;h2 id=&#34;academics&#34; &gt;
+      <description>&lt;h2 id=&#34;ai-certifications&#34; &gt;
 &lt;div&gt;
-    &lt;a href=&#34;#academics&#34;&gt;
+    &lt;a href=&#34;#ai-certifications&#34;&gt;
         #
     &lt;/a&gt;
-    Academics
+    AI Certifications
 &lt;/div&gt;
 &lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;🧠 AI Advertising &amp;amp; Brand Loyalty Research Study (2025)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ISO/IEC 42001:2023 – Artificial Intelligence Management Systems (AIMS)&lt;/strong&gt;
+Alison (2025)&lt;/p&gt;
+&lt;p&gt;Completed training on the first international standard for managing AI responsibly and transparently within organizations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DeepLearning Specialization&lt;/strong&gt;
+DeepLearning.ai (2020)&lt;/p&gt;
+&lt;p&gt;Completed Andrew Ng’s specialization covering neural networks, deep learning foundations, and real-world AI applications.&lt;/p&gt;
+&lt;h2 id=&#34;empirical-research&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#empirical-research&#34;&gt;
+        #
+    &lt;/a&gt;
+    Empirical Research
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;AI Advertising &amp;amp; Brand Loyalty Research Study (2025)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Led a study examining brand perception and loyalty between AI-generated and traditional ads.&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This study explores how AI-generated ads influence consumer perception and brand loyalty, using Coca-Cola commercials as a controlled case. It compares traditionally produced vs. AI-generated ads across three key dimensions: trust, innovation, and perceived value—and examines how these factors predict loyalty.&lt;/p&gt;&lt;/blockquote&gt;
@@ -66,8 +86,7 @@
 &lt;p&gt;Early questions include: Do AI-generated ads feel less trustworthy? More innovative? Just as valuable?&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The research aims to offer practical insights for brands integrating AI into marketing—and test whether artificial creativity builds or breaks consumer relationships.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;strong&gt;🧪 Dark Triad × AI Perception Research Study (2024)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dark Triad × AI Perception Research Study (2024)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Led a study examining individual differences and perception of AI.&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Explored how personality traits—specifically Machiavellianism, narcissism, and psychopathy—influence how people perceive AI.&lt;/p&gt;&lt;/blockquote&gt;
@@ -75,6 +94,20 @@
 &lt;p&gt;Findings showed that individuals high in Machiavellianism were more sensitive to AI-related threats, while those high in psychopathy were more optimistic about AI technology.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The study offers early insight into how personality shapes public responses to AI—and how we might craft smarter communication strategies around it.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;academic-work&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#academic-work&#34;&gt;
+        #
+    &lt;/a&gt;
+    Academic Work
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;DEI Strategy Analysis: Salesforce (2025)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Assessed Salesforce’s diversity, equity, and inclusion (DEI) efforts. Evaluated internal challenges and proposed initiatives for sustainable cultural transformation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Innovation Strategy Report: SAP (2025)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Assessed SAP’s innovation model and identified opportunities for strategic renewal within enterprise software. Explored alignment between innovation pipelines and long-term positioning.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brand Strategy Case Study: SAP (2024)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Analyzed SAP’s brand positioning, brand equity, and market segmentation. Developed strategic recommendations for expanding customer perception and market reach.&lt;/p&gt;
 </description>
     </item>
     
